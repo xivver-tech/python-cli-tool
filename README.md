@@ -1,25 +1,5 @@
-# Python CLI Tool
+# ⚠️ DELETE THIS REPOSITORY
 
-A simple interactive command-line calculator written in pure Python.
+This was a toy project.
 
-## Requirements
-
-- Python 3.6+
-
-## How to run
-
-```bash
-python calculator.py
-```
-
-Then type expressions like:
-
-```
-> 2 + 3
-= 5
-> 10 * 4
-= 40
-> quit
-```
-
-Supports basic arithmetic: `+`, `-`, `*`, `/`, `**`, parentheses, etc.
+Go to **Settings → Danger Zone → Delete this repository**
